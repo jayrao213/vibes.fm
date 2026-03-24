@@ -1,0 +1,6 @@
+vibes-fm-key.pem
+node_modules/
+.env*
+*.ini
+dist/
+.vercel
